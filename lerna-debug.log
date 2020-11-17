@@ -1,0 +1,9 @@
+54 error Error: Command failed: git commit -m v0.0.3
+54 error On branch master
+54 error Your branch is up to date with 'origin/master'.
+54 error
+54 error nothing to commit, working tree clean
+54 error
+54 error     at makeError (C:\Users\51915\AppData\Local\Yarn\Data\global\node_modules\execa\index.js:174:9)
+54 error     at C:\Users\51915\AppData\Local\Yarn\Data\global\node_modules\execa\index.js:278:16
+54 error     at processTicksAndRejections (internal/process/task_queues.js:97:5)
