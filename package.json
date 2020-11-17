@@ -11,7 +11,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "storybook": "start-storybook -p 6006 --no-dll",
     "build-storybook": "build-storybook --no-dll",
-    "lerna":"lerna publish"
+     "lerna":"lerna publish --access public"
   },
   "keywords": [],
   "author": "",
