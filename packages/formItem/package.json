@@ -1,10 +1,10 @@
 {
-  "name": "tl-form-Item",
+  "name": "tl-form-item",
   "version": "0.0.3",
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
     "async-validator": "^3.5.0"
   },
-  "gitHead": "1d95b39d9a94c53de05bc6da42721a5264b29889"
+  "gitHead": "820cfa43ef11786e974d93219a12b2644ed4d66f"
 }
